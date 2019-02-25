@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="30dp"
+    tools:context="com.example.circle.circlepointview.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/testContentOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.example.circle.circlepointview.widget.CirclePointView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            app:isSolid="true"
+            app:pointColor="@color/colorPrimary"
+            app:strikeWidth="13dp" />
+
+        <com.example.circle.circlepointview.widget.CirclePointView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            app:isSolid="false"
+            app:strikeWidth="10dp"/>
+
+        <com.example.circle.circlepointview.widget.CirclePointView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="15dp"
+            app:isSolid="false"
+            app:pointColor="@color/colorPrimary" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.example.circle.circlepointview.widget.CirclePointView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="15dp"
+            app:isSolid="true"
+            app:pointColor="@color/colorPrimary" />
+
+        <com.example.circle.circlepointview.widget.CirclePointView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="15dp"
+            app:isSolid="true"
+            app:pointColor="@color/colorPrimary" />
+
+        <com.example.circle.circlepointview.widget.CirclePointView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="3dp"
+            android:layout_marginTop="15dp"
+            app:isSolid="true"
+            app:pointColor="@color/colorPrimary" />
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CirclePointView">
+        <attr name="pointColor" format="color"/>
+        <attr name="isSolid" format="boolean"/>
+        <attr name="strikeWidth" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -4,7 +4,7 @@
 
 + 产品需要的效果
 
-![1551083156524.jpg](https://upload-images.jianshu.io/upload_images/2133715-d6a603273f110367.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1551083156524.jpg](https://github.com/onekey-Dong/CirclePointView/blob/master/pic/one.png)
 
 + Demo 效果图
 ![device-2019-02-25-171144.png](https://github.com/onekey-Dong/CirclePointView/blob/master/pic/device-2019-02-25-171144.png)

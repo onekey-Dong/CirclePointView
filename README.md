@@ -4,7 +4,9 @@
 
 + 产品需要的效果
 
-![1551083156524.jpg](https://github.com/onekey-Dong/CirclePointView/blob/master/pic/one.jpg)
+<img width ="374" height="454" src="https://github.com/onekey-Dong/CirclePointView/blob/master/pic/one.jpg"/>
 
 + Demo 效果图
-![device-2019-02-25-171144.png](https://github.com/onekey-Dong/CirclePointView/blob/master/pic/device-2019-02-25-171144.png)
+
+<img width ="358" height="358" src="https://github.com/onekey-Dong/CirclePointView/blob/master/pic/device-2019-02-25-171144.png"/>
+
